@@ -1,5 +1,6 @@
 # ignore api key data
 api_key.py
+config.py
 
 # ignore mac hidden file
 .DS_Store
