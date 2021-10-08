@@ -1,3 +1,9 @@
+# ignore api key data
+api_key.py
+
+# ignore mac hidden file
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
